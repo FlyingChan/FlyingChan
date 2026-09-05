@@ -4,5 +4,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-white?style=flat&logo=TensorFlow&logoColor=FF6F00"/>
   <img src="https://img.shields.io/badge/CentOS-white?style=flat&logo=CentOS&logoColor=262577"/>
   <img src="https://img.shields.io/badge/Arduino-white?style=flat&logo=arduino&logoColor=00878F"/>
+  <img src="https://img.shields.io/badge/RockyLinux-white?style=flat&logo=rockylinux&logoColor=00878F"/>
+  <img src="https://img.shields.io/badge/Bash-white?style=flat&logo=GNU%20bash&logoColor=000000"/>
 
   
